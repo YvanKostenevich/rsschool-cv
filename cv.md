@@ -3,12 +3,15 @@
 
 ### Contacts  
 
+
 _Email_: YvanKostenevich@gmail.com  
 _Cell phone_: +375 (29) 845-12-08  
 _Skype_: Yvan Kostenevich  
 _GitHub Profile_: https://github.com/YvanKostenevich  
 
+
 ### Summary  
+
 
 As a strong team player who thrives under pressure
 and always  looking to learn something new, I view
@@ -35,7 +38,7 @@ a position of a junior software developer.
 ### Code examples
 
 
-*this code converts    an array to list and vice versa,
+*this code converts an array to list and vice versa,
 prepends an element to a list*
 
 
@@ -66,6 +69,7 @@ function prepend(element, list) {
 
 ### Experience  
 
+
 Different exercises from books like Elizabeth
 Freeman's, Eric Freeman's �Head First HTML and CSS�,
 David Sawyer's McFarland �CSS: The Missing Manual�,
@@ -75,10 +79,13 @@ Udemy.com, Khanacademy.org etc...
 
 ### Education  
 
+
 Graduate of Minsk State Linguistic University,
 Faculty of English Language.Also see experience section.
 
+
 ### English  
+
 
 Fluent reading, writing and speaking ability. Have experience
 in translating technical science articles.
