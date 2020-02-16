@@ -27,7 +27,7 @@ a position of a junior software developer.
 
 
 * Microsoft Office Suite 
-* WebStorm ID
+* WebStorm IDE
 * HTML, CSS, JavaScript
 * GitHub
 * Command Line
