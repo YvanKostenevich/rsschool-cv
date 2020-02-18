@@ -71,8 +71,8 @@ function prepend(element, list) {
 
 
 Different exercises from books like Elizabeth
-Freeman's, Eric Freeman's ï¿½Head First HTML and CSSï¿½,
-David Sawyer's McFarland ï¿½CSS: The Missing Manualï¿½,
+Freeman's, Eric Freeman's “Head First HTML and CSS”,
+David Sawyer's McFarland “CSS: The Missing Manual”,
 Marijn Haverbeke's "Eloquent JavaScript", Codecademy.com,
 Udemy.com, Khanacademy.org etc...
 
